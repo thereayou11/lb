@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <cmath>
-using namespace tripls;
+using namespace std;
 
 bool funcPrimeCheckFor(int);
 bool funcPrimeCheckDoWhile(int);
