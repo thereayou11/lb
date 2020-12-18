@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-using namespace tripls;
+using namespace std;
 
 float func(float);
 
