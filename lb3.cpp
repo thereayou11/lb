@@ -1,7 +1,7 @@
 ﻿#include <math.h>
 #include <iostream>
 #include <cmath>
-using namespace tripls;
+using namespace std;
 void func1();
 void func2();
 void func3();
